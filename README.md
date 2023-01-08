@@ -10,8 +10,8 @@ The mechanics of the website revolve around the ability to filter the data table
 ![City and shape filter](https://user-images.githubusercontent.com/114181709/211212244-faebad2b-4f67-46de-92d5-52af8586ff2f.png)
 
 
-## Summary of website usability:
-### This type of filtering has its disadvantages. Primarily, it's not intuitive for a website user. Not having a button or clear instruction on how to filter the data causes confusion which reduces a person's desire to use the website.
+### Summary of website usability:
+This type of filtering has its disadvantages. Primarily, it's not intuitive for a website user. Not having a button or clear instruction on how to filter the data causes confusion which reduces a person's desire to use the website.
 Therefore, we offer 2 proposals to improve the website usabililty:
 1) Create a search button that a user can press to effectuate the search once the filtering fields have been filled out.
 2) Showing all the data in the initial form of the webpage is not scalable. If you had thousands of UFO sightings your webpage could not be effectively navigated. Therefore, it would be best to store that data in a database and to create an additional script with server-side code which could communicate between the user input on the webpage and the UFO sightings data stored in the database. That way the user only sees what he's filtered. If he wants to see everything then that functionality could also be added.
